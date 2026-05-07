@@ -1,0 +1,14 @@
+[
+    {
+        "id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "nome": "rafael",
+        "email": "rafaeloliveiraabsy@gmail.com",
+        "senha": "scrypt:32768:8:1$2n7ZLElpVj7MdYEd$516fdbfac3766349d698ed84f5e88f3ca80b60be75fe1351fb0d753829b174ea7d968b083c32c3373321960df2502bd9b7977f10885e20571c24597fcdc1bb3c",
+        "data_criacao": "2026-05-07T16:44:02.384737",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": true,
+        "otp_code": null
+    }
+]
