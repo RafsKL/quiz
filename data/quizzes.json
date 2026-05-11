@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "titulo": "Quiz de Python",
+        "descricao": "",
+        "tema_id": "30e567ad-e151-4c16-922f-0405ae9ad685",
+        "criado_por": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "dificuldade": "easy",
+        "publico": true
+    }
+]

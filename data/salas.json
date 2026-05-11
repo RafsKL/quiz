@@ -1,0 +1,13 @@
+[
+    {
+        "id": "7f0c10c7-6fe1-4e8a-be33-9e95970d940b",
+        "nome": "rafael",
+        "codigo": "59ABS",
+        "dono_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "status": "jogando",
+        "participantes": [
+            "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2"
+        ]
+    }
+]

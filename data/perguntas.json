@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "enunciado": "Quanto \u00e9 2+2?",
+        "tipo": "multipla_escolha",
+        "dificuldade": "easy",
+        "data_criacao": "2026-05-11T19:40:11.851818"
+    }
+]

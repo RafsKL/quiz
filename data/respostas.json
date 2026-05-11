@@ -1,0 +1,26 @@
+[
+    {
+        "id": "9fecaf45-5e07-4814-88a1-7ad8ceb2f6f2",
+        "tentativa_id": "eb6a5039-66e0-4620-96eb-d1c9848a75bb",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "alternativa_id": "0c7f9823-f4a3-4a63-82a0-c126518e0cb9",
+        "correta": true,
+        "data_resposta": "2026-05-11T19:44:10.168570"
+    },
+    {
+        "id": "790e2882-bdf7-41c8-9da7-576d672b7201",
+        "tentativa_id": "eb6a5039-66e0-4620-96eb-d1c9848a75bb",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "alternativa_id": "0c7f9823-f4a3-4a63-82a0-c126518e0cb9",
+        "correta": true,
+        "data_resposta": "2026-05-11T20:15:44.551764"
+    },
+    {
+        "id": "5c0be603-9e61-4ef4-9d6d-d95a0444e3ea",
+        "tentativa_id": "eb6a5039-66e0-4620-96eb-d1c9848a75bb",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "alternativa_id": "0c7f9823-f4a3-4a63-82a0-c126518e0cb9",
+        "correta": true,
+        "data_resposta": "2026-05-11T20:15:48.041285"
+    }
+]
