@@ -73,3 +73,20 @@ class SalaController:
         write_data(SALA_FILE, salas)
 
         return {"mensagem": "A partida começou! Boa sorte aos competidores."}, 200
+    
+    @staticmethod
+    def finalizar_sala(sala_id, usuario):
+        salas = read_data(SALA_FILE)
+        sala = next((s for s in salas if s["id"] == sala_id), None)
+
+        if not sala:
+            return {"erro": "Sala não encontrada!"}, 404
+            
+        # Apenas o dono pode fechar a sala
+        if sala["dono_id"] != usuario["user_id"]:
+            return {"erro": "Apenas o dono pode finalizar a sala!"}, 403
+
+        sala["status"] = "finalizada"
+        write_data(SALA_FILE, salas)
+
+        return {"mensagem": "A sala foi fechada! Confira o ranking final."}, 200

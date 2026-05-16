@@ -7,5 +7,50 @@
         "status": "finalizado",
         "data_inicio": "2026-05-11T19:42:01.625558",
         "data_fim": "2026-05-11T19:49:54.048429"
+    },
+    {
+        "id": "26a4dec7-2e7e-4bc2-8a12-0ae0c406dd3a",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:35:22.533188",
+        "data_fim": "2026-05-16T13:40:51.667791"
+    },
+    {
+        "id": "ce6d1431-f658-435f-96ae-bf4766036b26",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:56:02.457671",
+        "data_fim": "2026-05-16T13:59:41.071801"
+    },
+    {
+        "id": "6e67af84-026a-4fbf-aef6-5ad8f998738d",
+        "usuario_id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:57:22.826436",
+        "data_fim": "2026-05-16T13:59:18.865483"
+    },
+    {
+        "id": "9f263fd6-6e96-4e28-9622-e887f5819200",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T14:07:18.864211",
+        "data_fim": "2026-05-16T14:08:15.058580"
+    },
+    {
+        "id": "ab2815e8-a8b2-4721-b39e-15db4d3220ca",
+        "usuario_id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T14:08:29.601259",
+        "data_fim": "2026-05-16T14:09:56.956721"
     }
 ]

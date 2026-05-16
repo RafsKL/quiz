@@ -7,6 +7,18 @@
         "data_criacao": "2026-05-07T16:44:02.384737",
         "avatar_url": "",
         "nivel": 1,
+        "xp_total": 50,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "nome": "pudim",
+        "email": "pudimdedeu@gmail.com",
+        "senha": "scrypt:32768:8:1$1gfLxGiT7Yv0EXIP$47fbb2d8aea5b2b04f59cd2336a6e0674add71c584bcfccd4e74caadb6ad4781eca7bae380c532ad0e1d9bbe60820c4512b4ee7eec69c69d3e8022314d355050",
+        "data_criacao": "2026-05-16T13:45:01.538076",
+        "avatar_url": "",
+        "nivel": 1,
         "xp_total": 10,
         "is_verified": true,
         "otp_code": null

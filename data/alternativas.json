@@ -5,5 +5,26 @@
         "texto": "4",
         "correta": true,
         "data_criacao": "2026-05-11T19:40:57.901044"
+    },
+    {
+        "id": "18d3f54e-2f22-47a1-9d9c-43993eae377a",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "texto": "2",
+        "correta": false,
+        "data_criacao": "2026-05-16T13:33:59.161082"
+    },
+    {
+        "id": "829cf015-9014-44c6-aa4c-e91a7aef255b",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "texto": "3",
+        "correta": false,
+        "data_criacao": "2026-05-16T13:34:14.124200"
+    },
+    {
+        "id": "83fe7685-9dda-4f2f-bddf-49c710dd5484",
+        "pergunta_id": "1fe1f3f0-4944-431a-ba0c-301fc6dbdbe5",
+        "texto": "6",
+        "correta": false,
+        "data_criacao": "2026-05-16T13:34:30.437591"
     }
 ]

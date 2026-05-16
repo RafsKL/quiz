@@ -29,3 +29,9 @@ def entrar(usuario_token):
 def iniciar_jogo(usuario_token, id): # Lembre da ordem que corrigimos antes!
     resposta, status = SalaController.iniciar_partida(id, usuario_token)
     return jsonify(resposta), status
+
+@sala_bp.route("/salas/<id>/finalizar", methods=["PUT"])
+@token_obrigatorio
+def encerrar_sala(usuario_token, id):
+    resposta, status = SalaController.finalizar_sala(id, usuario_token)
+    return jsonify(resposta), status
